@@ -91,7 +91,7 @@ provideImageKitLoader('https://ik.imagekit.io/yourkey')
 
 ```bash
 ng build --stats-json
-npx webpack-bundle-analyzer dist/leadgen-web/stats.json
+npx webpack-bundle-analyzer dist/web-app/stats.json
 ```
 
 Run before each major release. Flag any third-party package >20 KB that could be tree-shaken or replaced.

@@ -67,7 +67,7 @@ Use the correct element for the job. ARIA is a supplement, not a replacement.
 
 ```html
 <!-- Informative image -->
-<img ngSrc="/assets/logo.svg" alt="Moroccan Mint Leadgen" width="120" height="40" />
+<img ngSrc="/assets/logo.svg" alt="Application logo" width="120" height="40" />
 
 <!-- Decorative image -->
 <img ngSrc="/assets/bg.svg" alt="" width="800" height="400" aria-hidden="true" />

@@ -21,7 +21,7 @@ hilt-android = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }
 Annotate the Application class:
 ```kotlin
 @HiltAndroidApp
-class LeadgenApplication : Application()
+class AppApplication : Application()
 ```
 
 ## 3. Providing Dependencies

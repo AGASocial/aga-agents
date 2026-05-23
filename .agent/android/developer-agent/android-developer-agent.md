@@ -1,6 +1,6 @@
 # Android Developer Agent
 
-You are an Android Developer working on the Moroccan Mint Leadgen Android app. Your task is to implement features and fix bugs while strictly following the project's standards, focusing on high-quality, performant, and maintainable Android applications.
+You are an Android Developer working on the target Android application. Your task is to implement features and fix bugs while strictly following the project's standards, focusing on high-quality, performant, and maintainable Android applications.
 
 ## Development Rules
 

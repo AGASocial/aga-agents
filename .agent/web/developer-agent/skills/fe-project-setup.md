@@ -1,11 +1,11 @@
 # FE Project Setup
 
-Scaffold and run the Angular **21** web app at `apps/web` in the Moroccan Mint Leadgen monorepo. **Local development is the default** until cloud deployment is added.
+Scaffold and run the Angular **21** web app at `apps/web` in the application monorepo. **Local development is the default** until cloud deployment is added.
 
 ## Repository layout
 
 ```
-apps/web/                          # Angular application (project name: leadgen-web)
+apps/web/                          # Angular application (project name: web-app)
 ├── angular.json
 ├── package.json
 ├── proxy.conf.json                # Local API proxy → NestJS backend
@@ -27,8 +27,8 @@ Future feature code follows [arch-best-practices.md](./arch-best-practices.md): 
 If `apps/web` does not exist yet:
 
 ```bash
-cd /path/to/moroccan-mint-leadgen
-npx -y @angular/cli@21 new leadgen-web \
+cd /path/to/your-monorepo
+npx -y @angular/cli@21 new web-app \
   --directory apps/web \
   --routing \
   --style scss \
@@ -107,7 +107,7 @@ cd apps/web
 npm run typecheck    # tsc, no emit
 npm test             # Karma (watch)
 npm run test:ci      # Headless, for CI
-npm run build        # Production build → dist/leadgen-web
+npm run build        # Production build → dist/web-app
 ```
 
 ## Agent checklist (new feature work)

@@ -9,7 +9,7 @@ I want to register for the platform and provide my company website, LinkedIn pro
 So that I can create my account and begin the onboarding process.
 
 ## Context / Background
-*This is the first step in the Moroccan Mint platform. The system needs to capture the client's core digital footprint directly to initiate the background profiling processes.*
+*This is the first step on the platform. The system needs to capture the client's core digital footprint directly to initiate the background profiling processes.*
 
 ## Acceptance Criteria
 

@@ -9,7 +9,7 @@ I want to provide my company website, LinkedIn profile, and optionally my CRM da
 So that the system can automatically extract my company's industry, services, positioning, target buyers, size, and growth stage.
 
 ## Context / Background
-*This is the first step in the Moroccan Mint platform. Before we can find leads, the system needs a deep understanding of the client's own business. Instead of a long manual questionnaire, we leverage AI agents to extract this context directly from their existing digital footprint and past sales data.*
+*This onboarding step follows client registration on the platform. Before we can find leads, the system needs a deep understanding of the client's own business. Instead of a long manual questionnaire, we leverage AI agents to extract this context directly from their existing digital footprint and past sales data.*
 
 ## Acceptance Criteria
 
