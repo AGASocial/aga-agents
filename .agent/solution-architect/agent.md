@@ -15,6 +15,7 @@ Please ensure you apply the methodologies and standards defined in the following
 - `skills/web-design.md`
 - `skills/android-design.md`
 - `skills/ios-design.md`
+- `skills/performance-scalability-review.md` — full-stack performance and scalability audit (Next.js + backend APIs)
 
 ### Your Instructions & Workflow:
 
