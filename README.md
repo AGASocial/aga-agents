@@ -99,6 +99,9 @@ Example — Scrum Master:
 .agent/scrum-master/agent.md
 ```
 
+One example is `You are the Master Agent. Read plan/manifest.json and assign the next eligible story.`
+Or `Execute the plan backlog autonomously. Use plan-orchestrator skill.`
+
 The agent will reply with an initialization message and ask for the next artifact (requirements, user story, or tasks).
 
 ### 2. Run the pipeline for a user story
